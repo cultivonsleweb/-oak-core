@@ -1,1 +1,1 @@
-# -oak-core
+# @oak/core
